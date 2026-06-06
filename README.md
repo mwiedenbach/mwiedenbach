@@ -1,3 +1,4 @@
+Hi there 👋
 Always open for technical discussions, code reviews, or collaborating on open-source projects. Feel free to reach out!
 React | TypeScript | Software Engineer
 
